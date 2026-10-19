@@ -1,0 +1,6 @@
+/__pycache__/
+/ToDo/__pycache__/
+/ToDo/.pytest_cache/
+/ToDo/routers/__pycache__/
+/ToDo/test/__pycache__/
+/ToDo/todosapp.db/
